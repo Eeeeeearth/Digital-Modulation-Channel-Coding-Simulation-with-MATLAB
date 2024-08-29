@@ -1,7 +1,5 @@
 # Digital-Modulation-Channel-Coding-Simulation-with-MATLAB
 
-This is for my TELE4652LAB4
-
 I went through three steps during the development process to make the structure more obvious. 
 
 The first step is to create a signal with a fixed Eb/No value, do not deploy the filter, and debug the vectors and signals in it.
